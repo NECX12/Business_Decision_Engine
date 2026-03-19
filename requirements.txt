@@ -1,0 +1,12 @@
+ipykernel
+nbformat
+pandas
+numpy
+python-dateutil
+matplotlib
+seaborn
+plotly
+scikit-learn
+prophet
+statsmodels
+xgboost
